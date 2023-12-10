@@ -1,0 +1,2 @@
+# EAMNSHelper
+ExternalAccessMinecraftNeteaseServerHelper
